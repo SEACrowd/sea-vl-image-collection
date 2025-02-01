@@ -19,7 +19,7 @@ If you have many images to contribute to SEA-VL, you are welcome to refer to thi
 		* the image (or all the images, if the image shown was part of a sub-folder) will be added to the `../data` folder after being processed (resized and renamed as required)
 		* the image or sub-folder will be moved into the `./processing_complete` folder
 4. Submit your hard work:
-	* raise a PR (to the `bulk-upload` (default) branch) with the new images added into the `../data/` folder
+	* raise a PR (to the `main` branch) with the new images added into the `../data/` folder
 	* send us the `seavl_batch_labels - YOUR NAME.csv` CSV through Discord / email for review.
 
 ## Manual Upload
