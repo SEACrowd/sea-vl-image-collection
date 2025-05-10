@@ -1,3 +1,4 @@
+<img width="100%" alt="SEA-VL Banner" src="https://raw.githubusercontent.com/SEACrowd/seacrowd.github.io/master/images/SEA-VL/seavl-phase2-banner.png">
 
 # Image Bulk Submission Guide
 
@@ -46,6 +47,6 @@ If you have many images to contribute to SEA-VL, you are welcome to refer to thi
 	- ⚠️ Keep the empty column as empty.
 	- ⚠️ For the `email` column just fill it with seacrowd.research@gmail.com.
 	- ⚠️ For the `image` column, please fill it with `https://raw.githubusercontent.com/SEACrowd/sea-vl-image-collection/refs/heads/main/data/%7Bfile_name%7D`. `file_name` should be the same as the one you submitted to the repository.
-3.  As the last step, you can send us the CSV through Discord / email (contact.ruochen@gmail.com or samuel.cahyawijaya@gmail.com) and we will review the CSV and images. If there is no issue, we will push the photos to the annotation platform.
+3.  As the last step, you can send us the CSV through Discord / email (ice.flores4649@gmail.com or patrickamadeusirawan@gmail.com; and cc: seacrowd.research@gmail.com) and we will review the CSV and images. If there is no issue, we will push the photos to the annotation platform.
 
-**Any questions?** Message `@rc.z` or `@samuelcahyawijaya` on [Discord](https://discord.gg/URdhUGsBUQ)!
+**Any questions?** Message `@iceman2434` or `@sigmoido` on [Discord](https://discord.gg/URdhUGsBUQ)!
